@@ -1,5 +1,7 @@
 # web automation test
 
+![image](assets/banner.png)
+
 1. install selenium
 ```
 gem install selenium-webdriver
